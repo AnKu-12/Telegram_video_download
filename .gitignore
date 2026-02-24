@@ -1,0 +1,4 @@
+.env
+my_session.session
+__pycache__/
+telegram_videos/
