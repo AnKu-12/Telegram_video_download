@@ -1,3 +1,5 @@
+## Use-Case Reference
+https://www.reddit.com/r/DataHoarder/comments/1819tvk/how_to_download_all_files_from_a_private_telegram/
 
 ## Features
 
@@ -98,7 +100,5 @@ Downloaded videos will be saved in:
 ```
 ./telegram_videos/
 ```
-
----
 
 
