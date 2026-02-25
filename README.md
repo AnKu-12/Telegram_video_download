@@ -16,8 +16,8 @@ https://www.reddit.com/r/DataHoarder/comments/1819tvk/how_to_download_all_files_
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/telegram-video-downloader.git
-cd telegram-video-downloader
+git clone https://github.com/AnKu-12/Telegram_video_download.git
+cd Telegram_video_download
 ```
 
 ---
